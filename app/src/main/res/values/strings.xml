@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Politica de privacidade e termo de uso</string>
+    <string name="apkdoandroid_terms_privacy_text">Ao enviar os dados, você concorda com o <a href="https://www.google.com.br/"> termo de uso do serviço</a> e <a href="https://www.google.com.br/"> nossa política de privacidade</a>. </string>
+</resources>
